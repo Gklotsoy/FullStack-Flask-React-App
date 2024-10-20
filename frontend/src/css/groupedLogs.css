@@ -1,0 +1,43 @@
+.group-by-date {
+    margin-top: 20px;
+}
+
+.log-group {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f5f5dc;
+}
+
+.log-group h2 {
+    font-size: 24px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.logs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.log-entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #f5f5dc;
+    box-shadow: 1px 5px 10px black;
+}
+
+.log-entry:hover {
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
