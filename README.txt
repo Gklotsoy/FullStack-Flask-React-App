@@ -47,12 +47,12 @@ This project is a full-stack diary application that allows users to create, read
 ## Usage
 1. Start the backend server:
     ```
-    npm run server
+    python main.py
     ```
 2. Start the frontend development server:
     ```
     cd client
-    npm start
+    npm run dev
     ```
 
 ## Contributing
