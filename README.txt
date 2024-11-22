@@ -51,7 +51,6 @@ This project is a full-stack diary application that allows users to create, read
     ```
 2. Start the frontend development server:
     ```
-    cd client
     npm run dev
     ```
 
